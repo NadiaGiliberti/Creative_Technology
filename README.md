@@ -2,7 +2,7 @@
 Ein Projekt von Nadia Giliberti
 
 ## ÜBERBLICK
-Beschrieb, was ist mein Projekt
+Beschrieb, was ist mein Projekt, wie funktionierts
 
 Hier evtl. ein Bild vom fertigen Projekt
 
@@ -12,11 +12,11 @@ Hier evtl. ein Bild vom fertigen Projekt
 
 
 ## PROJEKT REPRODUZIEREN
-### BENÖTIGTE RESSOURCEN:
-- Touchdesigner
-- Madmapper
+### VERWENDETE RESSOURCEN:
+- Touchdesigner 2025.32050
+- MadMapperDemo 5.7.1
 - Slamtec RP Lidar A1
-- Beamer jeglicher Art
+- Beamer, jeglicher Art
 
 ### INSTALLATION VORGEHEN
 1. Dateien "wasserfall_lidartrack.toe" und "SlamtecCHOP_V3.dll" aus Github-Projekt herunterladen und in Ordner der Wahl platzieren.  
@@ -42,7 +42,7 @@ Problembehebung: Wenn Lidartrack unter den Geräten nicht erkannt wird. Treiber 
 - kommt noch
 
 ### REFLEXION
-- Planung und umsetzung
+- Planung und Umsetzung
 - Herausforderungen: Beamer kabel kaputt - Bern vs. Chur - PC alternative für lidar - kabel Lidar kurz
 - Aufgabenverteilung - me myself and i
 - Lernerfolg: komplett neue Programme. Vorher noch nie was mit Touchdesigner/Madmapper was gemacht.
