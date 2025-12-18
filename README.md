@@ -28,11 +28,11 @@ Problembehebung: Wenn Lidartrack unter den Geräten nicht erkannt wird. Treiber 
 [https://www.silabs.com/software-and-tools/usb-to-uart-bridge-vcp-drivers?tab=downloads](https://www.silabs.com/software-and-tools/usb-to-uart-bridge-vcp-drivers?tab=downloads)
 5. Im Projekt cplusplus1 anwählen und im Register "Connection Settings" den soeben ermittelten Port bei "COM Port" eingeben.  
 
-![Screenshot Port](bilder_doku/cplusplus1_COM_Port)
+![Screenshot Port](bilder_doku/cplusplus1_COM_Port.png)
 
 6. Register "Lidar Settings" öffnen und Active von Off auf On setzen.  
 
-![Screenshot Lidar aktiv setzen](bilder_doku/cplusplus1_lidar_active)
+![Screenshot Lidar aktiv setzen](bilder_doku/cplusplus1_lidar_active.png)
 
 7. Daten sollten nun vom Lidar erfasst werden und den Wasserfall beeinflussen
 8. MadMapper öffnen, Beamer anstecken und ausprobieren...
