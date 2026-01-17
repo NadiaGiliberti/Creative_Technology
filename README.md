@@ -9,7 +9,7 @@ Ein Slamtec RP Lidar A1 (in meinem Projekt am Boden montiert) erfasst die Bewegu
 Die visuelle Ausgabe wird in Kopplung mit MadMapper (Demo-Version) für die Projektion eingerichtet.
 So entsteht ein direktes interaktives Erlebnis zwischen Person und Projektion.
 
-![Foto Wasserfall Projieziert](bilder_doku/wasserfall_projieziert.jpg)
+<img src="bilder_doku/wasserfall_projieziert.jpg" width="50%">
 
 ### VIDEOS:
 **Insights Projektaufbau**:
@@ -34,30 +34,30 @@ Problembehebung: Wenn Lidartrack unter den Geräten nicht erkannt wird. Treiber 
 [https://www.silabs.com/software-and-tools/usb-to-uart-bridge-vcp-drivers?tab=downloads](https://www.silabs.com/software-and-tools/usb-to-uart-bridge-vcp-drivers?tab=downloads)
 5. Im Projekt cplusplus1 anwählen und im Register "Connection Settings" den soeben ermittelten Port bei "COM Port" eingeben.  
 
-![Screenshot Port](bilder_doku/cplusplus1_COM_Port.png)
+<img src="bilder_doku/cplusplus1_COM_Port.png" width="60%">
 
 6. Register "Lidar Settings" öffnen und Active von Off auf On setzen.  
 
-![Screenshot Lidar aktiv setzen](bilder_doku/cplusplus1_lidar_active.png)
+<img src="bilder_doku/cplusplus1_lidar_active.png" width="60%">
 
 7. Daten sollten nun vom Lidar erfasst werden und den Wasserfall beeinflussen
 8. Im Operator crop1 die Werte so einstellen, dass der Interaktionsbereich des Lidar-Sensors dem projizierten Bereich entspricht.
 
-![Screenshot Crop Einstellungen](bilder_doku/screenshot_crop1.png)
+<img src="bilder_doku/screenshot_crop1.png" width="60%">
 
 9. In der Touchdesigner-Datei ganz zu hinterst: Syphon Spout Out auf Active setzen.
 
-![Screenshot Syphon Spout](bilder_doku/screenshot_spout.png)
+<img src="bilder_doku/screenshot_spout.png" width="60%">
 
-1o. MadMapper öffnen
+10. MadMapper öffnen
 11. Projektor mit Computer verbinden
 12. Ganz rechts bei Media -> Mediainstances -> Spout -> Spout "waterfall" anwählen.
  
- ![Screenshot MadMapper Spout](bilder_doku/screenshot_madmapper_spout.png)
+<img src="bilder_doku/screenshot_madmapper_spout.png" width="60%">
 
 13. Das Feld "Outputs" anklicken.
 
-![Screenshot Outputs](bilder_doku/screenshot_madmapper_outputs.png)
+<img src="bilder_doku/screenshot_madmapper_outputs.png" width="60%">
 
 14. Mit Ctrl + U die Projektion starten. Mit Ctrl + T die Projektion beenden.
 
