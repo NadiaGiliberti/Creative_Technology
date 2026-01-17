@@ -1,13 +1,19 @@
 # INTERAKTIVER WASSERFALL
 Ein Projekt von Nadia Giliberti
 
-## ÜBERBLICK
-Beschrieb, was ist mein Projekt, wie funktionierts
+![Screenshot Wasserfall Touchdesigner](bilder_doku/titelbild_wasserfall.jpg)
 
-Hier evtl. ein Bild vom fertigen Projekt
+## ÜBERBLICK
+In diesem Projekt wurde in TouchDesigner ein interaktiver Wasserfall mit Particles umgesetzt. Das Bild des Wasserfalls wird mit einem Projektor an eine Wand projiziert und kann durch Interaktion mit der Wand beeinflusst werden.
+Ein Slamtec RP Lidar A1 (in meinem Projekt am Boden montiert) erfasst die Bewegung von Personen vor der Projektion. Diese Daten werden in TouchDesigner verarbeitet und wirken sich direkt auf den Wasserfall aus. Die Interaktion funktioniert dabei ähnlich, als wäre die Wand ein Touchscreen.
+Die visuelle Ausgabe wird in Kopplung mit MadMapper (Demo-Version) für die Projektion eingerichtet.
+So entsteht ein direktes interaktives Erlebnis zwischen Person und Projektion.
+
+![Foto Wasserfall Projieziert](bilder_doku/wasserfall_projieziert.jpg)
 
 ### VIDEOS:
 **Insights Projektaufbau**:
+
 **Demovideo Installation**:
 
 
@@ -16,7 +22,7 @@ Hier evtl. ein Bild vom fertigen Projekt
 - Touchdesigner 2025.32050
 - MadMapperDemo 5.7.1
 - Slamtec RP Lidar A1
-- Beamer, jeglicher Art
+- Projektor, jeglicher Art
 
 ### INSTALLATION VORGEHEN
 1. Dateien "wasserfall_lidartrack.toe" und "SlamtecCHOP_V3.dll" aus Github-Projekt herunterladen und in Ordner der Wahl platzieren.  
@@ -35,8 +41,27 @@ Problembehebung: Wenn Lidartrack unter den Geräten nicht erkannt wird. Treiber 
 ![Screenshot Lidar aktiv setzen](bilder_doku/cplusplus1_lidar_active.png)
 
 7. Daten sollten nun vom Lidar erfasst werden und den Wasserfall beeinflussen
-8. MadMapper öffnen, Beamer anstecken und ausprobieren...
+8. Im Operator crop1 die Werte so einstellen, dass der Interaktionsbereich des Lidar-Sensors dem projizierten Bereich entspricht.
 
+![Screenshot Crop Einstellungen](bilder_doku/screenshot_crop1.png)
+
+9. In der Touchdesigner-Datei ganz zu hinterst: Syphon Spout Out auf Active setzen.
+
+![Screenshot Syphon Spout](bilder_doku/screenshot_spout.png)
+
+1o. MadMapper öffnen
+11. Projektor mit Computer verbinden
+12. Ganz rechts bei Media -> Mediainstances -> Spout -> Spout "waterfall" anwählen.
+ 
+ ![Screenshot MadMapper Spout](bilder_doku/screenshot_madmapper_spout.png)
+
+13. Das Feld "Outputs" anklicken.
+
+![Screenshot Outputs](bilder_doku/screenshot_madmapper_outputs.png)
+
+14. Mit Ctrl + U die Projektion starten. Mit Ctrl + T die Projektion beenden.
+
+#### Das Projekt sollte nun funktionieren. 
 
 ### KOMPONENTEN DIAGRAMM
 - kommt noch
