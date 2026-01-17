@@ -9,7 +9,7 @@ Ein Slamtec RP Lidar A1 (in meinem Projekt am Boden montiert) erfasst die Bewegu
 Die visuelle Ausgabe wird in Kopplung mit MadMapper (Demo-Version) für die Projektion eingerichtet.
 So entsteht ein direktes interaktives Erlebnis zwischen Person und Projektion.
 
-<img src="bilder_doku/wasserfall_projieziert.jpg" width="60%">
+<img src="bilder_doku/wasserfall_projieziert.jpg" width="50%">
 
 ### VIDEOS:
 **Insights Projektaufbau**:
