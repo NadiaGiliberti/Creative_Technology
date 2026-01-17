@@ -85,8 +85,8 @@ Da ich dieses Projekt als Einzelarbeit umgesetzt habe, lag die gesamte Verantwor
 #### Lernerfolg: 
 Ein grosser persönlicher Erfolg war die Einarbeitung in komplett neue Software-Umgebungen. Vor diesem Modul hatte ich noch keinerlei Berührungspunkte mit TouchDesigner oder MadMapper. Ich konnte mir in kurzer Zeit Grundkenntnisse aneignen und diese direkt praktisch anwenden.
 
-#### verwendete Tools
+#### Verwendete Tools
 Künstliche Intelligenz (wie Claude oder ChatGPT) habe ich nur wenig genutzt. Ich habe zwar versucht, damit Probleme zu lösen, musste aber feststellen, dass sie bei TouchDesigner leider keine Hilfe waren. Meinen Lernprozess stützte ich daher hauptsächlich auf YouTube-Tutorials sowie die Coachings mit den Dozenten.
 
-#### bekannte Bugs 
+#### Bekannte Bugs 
 Softwareseitig sind mir aktuell keine Bugs bekannt, jedoch gibt es Einschränkungen in der Darstellung meines fertigen Produktes. Wie unter „Herausforderungen“ erwähnt, ist die Projektion aufgrund der begrenzten Kabellängen kleiner als gewünscht. Wäre natürlich schön gewesen, wenn der Wasserfall mehrere Meter hoch gewesen wäre. Zudem wird das Bild durch den verwendeten Projektor eher bläulich statt des beabsichtigten Violett-Tons dargestellt.
