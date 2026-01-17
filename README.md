@@ -12,10 +12,11 @@ So entsteht ein direktes interaktives Erlebnis zwischen Person und Projektion.
 <img src="bilder_doku/wasserfall_projieziert.jpg" width="50%">
 
 ### VIDEOS:
-**Insights Projektaufbau**:
-
 **Demovideo Installation**:
+[Installation Interaktiver Wasserfall](https://fhgraubuenden-my.sharepoint.com/:v:/g/personal/gilibernadia_fhgr_ch/IQCBKDbK64X2R4e-NiukuN10AVTopv2_-m9SgUhTNE5DHJQ?e=yjLtwr)
 
+**Insights Projektaufbau - behind the scenes**:
+[Behind the scenes](https://fhgraubuenden-my.sharepoint.com/:v:/g/personal/gilibernadia_fhgr_ch/IQB49NpjexFGQqK_q68TFuhYAbZ19AhbMI5V0S-vH5a5e10?e=E7YITr)
 
 ## PROJEKT REPRODUZIEREN
 ### VERWENDETE RESSOURCEN:
@@ -63,7 +64,7 @@ Problembehebung: Wenn Lidartrack unter den Geräten nicht erkannt wird. Treiber 
 15. Mit Ctrl + T die Projektion beenden.
 
 
-### KOMPONENTEN DIAGRAMM
+### KOMPONENTENPLAN
 <img src="bilder_doku/komponentenplan.png" width="60%">
 
 ### REFLEXION
