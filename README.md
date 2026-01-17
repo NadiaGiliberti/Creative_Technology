@@ -59,12 +59,12 @@ Problembehebung: Wenn Lidartrack unter den Geräten nicht erkannt wird. Treiber 
 
 <img src="bilder_doku/screenshot_madmapper_outputs.png" width="60%">
 
-14. Mit Ctrl + U die Projektion starten. Mit Ctrl + T die Projektion beenden.
+14. Mit Ctrl + U die Projektion starten. Das Projekt sollte nun funktionieren. 
+15. Mit Ctrl + T die Projektion beenden.
 
-#### Das Projekt sollte nun funktionieren. 
 
 ### KOMPONENTEN DIAGRAMM
-- kommt noch
+<img src="bilder_doku/komponentenplan.png" width="60%">
 
 ### REFLEXION
 - Planung und Umsetzung
